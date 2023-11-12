@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+td {
+  height: 50px;
+  border: 1px solid grey;
+}
+
+table {
+  margin: 20px auto;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+caption {
+  padding: 20px;
+}
+/*Styles for table #1*/
+
+.table1 {
+  width: 75%;
+}
+
+.td_table1 {
+  width: 33.333%;
+}
+
+.h200px {
+  height: 200px;
+}
+
+/*styles for table #2*/
+
+.table2_parent {
+  width: 90%;
+}
+
+.td_3 {
+  width: 60%;
+}
+
+.td_4 {
+  width: 28%;
+}
+
+.table2_child {
+  width: 80%;
+}
